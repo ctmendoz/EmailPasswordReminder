@@ -8,4 +8,5 @@
 - Include any necessary modules with the project.
 - Edit the "EmailRecipientList.csv" file to include any email addresses you wish to send the automated password reminder messages to.
   - Ensure that the email addresses follow the correct format.
+- Edit line 54-56 in the passwordReminder.py file to specify how long the wait time should be between emails.
 - Run the Python file
